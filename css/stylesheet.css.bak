@@ -1,0 +1,39 @@
+img{
+    margin-left: 28%;
+    border: black solid;
+}
+#b1{
+    margin-left: 32%;
+    height: 30px;
+    width: 60px;
+    font-size: 13pt;
+}
+#b2{
+    margin-left: 28%;
+    height: 30px;
+    width: 60px;
+    font-size: 13pt;
+}
+#b3{
+    margin-left: 32%;
+    height: 30px;
+    width: 170px;
+    font-size: 13pt;
+}
+#b4{
+    height: 30px;
+    width: 60px;
+    font-size: 13pt;
+}
+
+#b5{
+    margin-left: 32%;
+    height: 30px;
+    width: 170px;
+    font-size: 13pt;
+}
+#b6{
+    height: 30px;
+    width: 60px;
+    font-size: 13pt;
+}

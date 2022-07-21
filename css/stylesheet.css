@@ -1,0 +1,59 @@
+body{
+	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+	background-attachment: fixed;
+}
+img{
+    border: lavender solid;
+    border-radius: 10px;
+    margin-top: 4px;
+}
+#b1{
+    margin: 0 670px 43px 25%;
+    height: 30px;
+    width: 60px;
+    font-size: 13pt;
+    border-radius: 6px;
+    background-color: lavender;
+    border: lavender;
+}
+#b2{
+    height: 30px;
+    width: 60px;
+    font-size: 13pt;
+    border-radius: 6px;
+    background-color: lavender;
+    border: lavender;
+}
+#b3{
+    margin: 62px 4PX 0 43%;
+    font-size: 13pt;
+    border-radius: 6px;
+    background-color: lavender;
+    border: lavender;
+}
+#b4{
+    font-size: 13pt;
+    border-radius: 6px;
+    background-color: lavender;
+    border: lavender;
+}
+#b5{
+    margin: 0 4PX 0 43%;
+    font-size: 13pt;
+    border-radius: 6px;
+    background-color: lavender;
+    border: lavender;
+}
+#b6{
+    font-size: 13pt;
+    border-radius: 6px;
+    background-color: lavender;
+    border: lavender;
+}
+
+#dimg{
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: 30%;
+
+}
